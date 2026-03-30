@@ -39,7 +39,7 @@
    [2]
     0 PPtr<Material> data
      0 int m_FileID = 0
-     0 SInt64 m_PathID = 142
+     0 SInt64 m_PathID = 141
    [3]
     0 PPtr<Material> data
      0 int m_FileID = 0
