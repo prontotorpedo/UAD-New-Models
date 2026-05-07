@@ -1,0 +1,23 @@
+@model,type,#desc
+#Model name,Model type,Description of model
+##,torpedo,
+vw_torpedo_x3,torpedo,Triangular shaped triple torpedo launcher based off of the ones found on the British V&W class destroyers
+##,barbette,
+tribal_barbette_a,barbette,The front tower of a Dido class CL with the superstructure removed
+##,funnel,
+##,tower_main,
+hood_tower_main_var,tower_main,"Main tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
+tribal_tower_main,tower_main,"A modification of akizuki_tower_main_d, without the vertical stretching"
+tribal_tower_main_b,tower_main,A shortened version of tribal_tower_main. Made to resemble the main towers of some V&W class destroyers
+warspite_tower_main,tower_main,Made to resemble the main tower of HMS Warspite after her modernization
+##,tower_sec,
+hood_tower_sec_var,tower_sec,"Rear tower for a hypothetical modernization of HMS Hood, based off of the video by Drachinifel of the same topic"
+tribal_tower_sec,tower_sec,Resembles the rear towers of many British destroyers in the 1920s and 1930s
+##,hull,
+##,gun,
+agamemnon_gun_b_305_x2,gun,"The turret shield of agamemnon_gun_305_x2 is made slightly longer and wider, covering more of the turret base"
+agamemnon_gun_b_305_x3,gun,"The turret shield of agamemnon_gun_305_x3 is made slightly longer and wider, covering more of the turret base"
+qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
+usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war"
+vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard"
+vdt_gun_cal150_x2,gun,A model of a twin casemate gun
