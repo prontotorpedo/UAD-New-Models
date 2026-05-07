@@ -17,7 +17,9 @@ tribal_tower_sec,tower_sec,Resembles the rear towers of many British destroyers 
 ##,gun,
 agamemnon_gun_b_305_x2,gun,"The turret shield of agamemnon_gun_305_x2 is made slightly longer and wider, covering more of the turret base"
 agamemnon_gun_b_305_x3,gun,"The turret shield of agamemnon_gun_305_x3 is made slightly longer and wider, covering more of the turret base"
+pompom_gun_a_x4,gun,Generic quadruple anit-aircraft gun. Takes inspirations from pompoms and atlanta_gun_28
 qe_gun_114_x2,gun,"Resembles the 4.5"" ""pancake"" turrets found on British aircraft carriers and modernized capital ships"
 usa_gun_127_x1,gun,"Based off of the US 5""/54 guns used post-war"
 vanguard_gun_133_x2,gun,"Resembles the 5.25"" gun turrets used on HMS Vanguard"
 vdt_gun_cal150_x2,gun,A model of a twin casemate gun
+vw_gun_120_x1,gun,"Generic single gun for destroyers. Based off of the 4.7"" guns on V&W class destroyers"
